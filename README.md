@@ -37,7 +37,15 @@ customer ratings, payment methods, and revenue trends.
 - Total Gross Income
 
  📈 Dashboard
+
+ sample dataset = "C:\Users\HP\Downloads\supermarket_sales - Sheet1.csv"
+ 
  Supermarket Sales Dashboard=("C:\Users\HP\Documents\SUPERMARKET SALES ANALYSIS.pbix")
+ 
+ <img width="1558" height="803" alt="Screenshot 2026-09-22 215850" src="https://github.com/user-attachments/assets/0c1495b7-4a23-406a-afca-7f71c2888ce0" />
+ <img width="1440" height="800" alt="Screenshot 2026-09-22 215921" src="https://github.com/user-attachments/assets/da1088cd-9c7c-4ca8-b91a-67e90767f044" />
+ <img width="1442" height="816" alt="Screenshot 2026-09-22 215947" src="https://github.com/user-attachments/assets/64d05e3a-cfe8-4738-ad39-65bf448e4f92" />
+
  
 
 
