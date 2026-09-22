@@ -38,12 +38,18 @@ customer ratings, payment methods, and revenue trends.
 
  📈 Dashboard
 
- sample dataset = "C:\Users\HP\Downloads\supermarket_sales - Sheet1.csv"
+ Dataset used = supermarket_sales
  
- Supermarket Sales Dashboard=("C:\Users\HP\Documents\SUPERMARKET SALES ANALYSIS.pbix")
+ Dashboard Instraction = view Supermarket_sales Analysis Dashboard
  
  <img width="1558" height="803" alt="Screenshot 2026-09-22 215850" src="https://github.com/user-attachments/assets/0c1495b7-4a23-406a-afca-7f71c2888ce0" />
+ 
+ 
+ 
  <img width="1440" height="800" alt="Screenshot 2026-09-22 215921" src="https://github.com/user-attachments/assets/da1088cd-9c7c-4ca8-b91a-67e90767f044" />
+ 
+ 
+ 
  <img width="1442" height="816" alt="Screenshot 2026-09-22 215947" src="https://github.com/user-attachments/assets/64d05e3a-cfe8-4738-ad39-65bf448e4f92" />
 
  
@@ -78,3 +84,10 @@ Total Transactions = DISTINCTCOUNT(sales[Invoice ID])
 Average Rating = AVERAGE(sales[Rating])
 
 Total Gross Income = SUM(sales[gross income])
+
+
+🚀 Conclusion
+
+This project helped me develop practical skills in data cleaning,
+data modeling, DAX calculations, data visualization, and dashboard
+development using Power BI.
